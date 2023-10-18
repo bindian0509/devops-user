@@ -1,10 +1,5 @@
 package com.bharat.devops.user.entity;
 
-/*
- * @author Bharat V. <bindian0509@gmail.com>
- * @created Thursday, 18 January 2024
- */
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -13,7 +8,10 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-
+/*
+ * @author Bharat V. <bindian0509@gmail.com>
+ * @created Thursday, 18 January 2024
+ */
 @Entity
 @Data
 @NoArgsConstructor
