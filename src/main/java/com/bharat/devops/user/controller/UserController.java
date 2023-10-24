@@ -1,6 +1,7 @@
 package com.bharat.devops.user.controller;
 
 import com.bharat.devops.user.dto.UserDTO;
+import com.bharat.devops.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
