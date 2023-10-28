@@ -1,0 +1,8 @@
+-- get all user
+http :9093/user/1
+
+
+-- create a new restaurant
+http POST :9093/user userName="Bharat" userPassword="Password" city="Mumbai" address="chich pokli bandar"
+
+
